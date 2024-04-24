@@ -14,6 +14,6 @@ Desafio proposto pela Fabrica de Software para os novos membros. Esse projeto vi
 
 ## ⚒️  Desenvolvido com
 
-<img src=" https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
